@@ -1,0 +1,13 @@
+:root {
+  --color-0: #ffffff; /* box color */
+
+  --color-1: #e0cced; /* */
+  --color-2: #d9b1f2; /* */
+  --color-3: #974ac7; /* main color */
+  --color-4: #9a34d9; /* sub  color */
+  --color-5: #d9b1f2; /* */
+
+  --logo-URL: url("https://upload.tgd.kr/20190603/c93c6a1cfbcbc876ce36f43b622881de.png");
+  --logo-Width: 158px;
+  --logo-Height: 50px;
+  --logo-size-mobile: 90px 32px;
